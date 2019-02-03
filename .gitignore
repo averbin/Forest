@@ -8,6 +8,15 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+# Visual Studio 2017
+.vscode/
+.vs
+
+# Debug folder
+Debug
+Release
+Debug/
+Release/
 
 # Windows Installer files
 *.cab
